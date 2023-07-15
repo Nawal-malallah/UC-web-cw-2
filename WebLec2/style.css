@@ -1,0 +1,14 @@
+.card{
+    width: 500px;
+    background-color: #FFECEC;
+    text-align: center;
+}
+
+#dish-name{
+    color: aliceblue;
+    background-color: #FF78C4;
+}
+
+body{
+    border-style: solid;
+}
